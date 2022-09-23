@@ -1,1 +1,1 @@
-# core-basics
+# getting started to language basics
